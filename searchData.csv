@@ -1,0 +1,437 @@
+Timestamp,Type,Name of movie / series,Genre,Language,"No of episodes( e.g.,1 for movies)",Region,Movie rating (out of 5),Release year
+11/17/2023 9:54:18,Series,Snowdrop ,Drama,Korean,16.0,South Korea,5.0,2018.111617312073
+11/17/2023 9:56:23,Series,18 again,Drama,Korean,16.0,South Korea,4.5,2018.111617312073
+11/17/2023 10:09:08,Series,Vincenzo,Action,Korean,20.0,South Korea,5.0,2021.0
+12-08-2023 05:30,Series,Stranger things,Thriller / Mystery,English,7.0,USA,4.5,2017.0
+12-08-2023 08:35,Series,my demon,Romance,Korean,16.0,South Korea,5.0,2023.0
+12-08-2023 08:36,Series,twinkling watermelon,Drama,Korean,16.0,South Korea,5.0,2023.0
+12-08-2023 08:37,Series,Love020,Romance,Chinese,14.748888888888889,China,4.9,2016.0
+12-08-2023 08:37,Series,A time called you,Romance,Korean,9.0,South Korea,4.0,2023.0
+12-08-2023 08:38,Series,good day to be a dog,Romance,Korean,14.0,South Korea,4.5,2023.0
+12-08-2023 08:39,Series,king the land,Romance,Korean,16.0,South Korea,3.995291479820628,2023.0
+12-08-2023 08:39,Series,Hidden love,Romance,Chinese,24.0,China,4.5,2023.0
+12-08-2023 08:40,Series,tomorrow,Drama,Korean,12.0,South Korea,4.0,2022.0
+12-08-2023 08:44,Series,celebrity,Thriller / Mystery,Korean,12.0,South Korea,3.995291479820628,2023.0
+12-08-2023 08:45,Series,find me in your memory,Romance,Korean,16.0,South Korea,4.0,2020.0
+12-08-2023 08:45,Series,island,Action,Korean,6.0,South Korea,5.0,2022.0
+12-08-2023 08:46,Series,the glory,Thriller / Mystery,Korean,6.0,South Korea,4.5,2022.0
+12-08-2023 08:47,Series,Forecasting love and weather,Romance,Korean,16.0,South Korea,3.5,2022.0
+12-08-2023 08:48,Series,its okay to not be okay,Romance,Korean,16.0,South Korea,4.0,2020.0
+12-08-2023 08:48,Series,vincenzo,Drama,Korean,20.0,South Korea,4.8,2021.0
+12-08-2023 08:51,Series,she would never know,Romance,Korean,16.0,South Korea,3.995291479820628,2021.0
+12-08-2023 08:51,Series,crash course in romance,Romance,Korean,16.0,South Korea,4.0,2023.0
+12-08-2023 08:52,Series,18 again,Romance,Korean,16.0,South Korea,4.0,2020.0
+12-08-2023 08:53,Series,alchemy of souls,Thriller / Mystery,Korean,20.0,South Korea,4.5,2022.0
+12-08-2023 08:55,Series,my mister,Drama,Korean,16.0,South Korea,4.0,2018.0
+12-08-2023 08:56,Series,reply 1988,Comedy,Korean,13.0,South Korea,3.0,2015.0
+12-08-2023 08:57,Series,crash landing on you,Drama,Korean,16.0,South Korea,4.0,2020.0
+12-08-2023 08:58,Series,An incurable case of love,Drama,Japanese,10.0,India,5.0,2020.0
+12-08-2023 08:58,Series,hotel del luna,Thriller / Mystery,Korean,12.0,South Korea,4.0,2019.0
+12-08-2023 08:59,Series,My happy marriage,Romance,Japanese,12.0,Japan,4.0,2023.0
+12-08-2023 09:01,Series,Cinderella and the four knights ,Romance,Korean,16.0,South Korea,4.0,2016.0
+12-08-2023 09:02,Series,descendants of the sun,Romance,Korean,16.0,South Korea,5.0,2016.0
+12-08-2023 09:03,Series,welcome to waikiki,Comedy,Korean,20.0,South Korea,4.0,2020.0
+12-08-2023 09:24,Series,Extraordinary you,Sci-fi,Korean,32.0,South Korea,3.995291479820628,2019.0
+12-08-2023 09:25,Series,fight for my way,Comedy,Korean,16.0,South Korea,4.9,2017.0
+12-08-2023 09:26,Series,goblin,Sci-fi,Korean,16.0,South Korea,4.0,2016.0
+12-08-2023 09:27,Series,hwarang,Comedy,Korean,20.0,South Korea,5.0,2016.0
+12-08-2023 09:28,Series,melting me softly,Comedy,Korean,16.0,South Korea,4.0,2019.0
+12-08-2023 09:30,Series,moon lovers,Romance,Korean,20.0,South Korea,4.0,2016.0
+12-08-2023 09:31,Series,my id is gangnam beauty,Romance,Korean,16.0,South Korea,5.0,2018.0
+12-08-2023 09:32,Series,my strange hero,Romance,Korean,32.0,South Korea,4.0,2018.0
+12-08-2023 09:33,Series,Faceless love,Romance,Thai,10.0,Thailand,4.0,2023.0
+12-08-2023 09:34,Series,Romance is a bonus book,Romance,Korean,16.0,South Korea,3.995291479820628,2018.111617312073
+12-08-2023 09:34,Series,Heartbeat,Romance,Turkish,25.0,Turkey,3.0,2020.0
+12-08-2023 09:35,Series,start up,Drama,Korean,16.0,South Korea,4.0,2020.0
+12-08-2023 09:35,Series,strong woman do bong soon ,Comedy,Korean,16.0,South Korea,4.0,2017.0
+12-08-2023 09:36,Series,suspicious partner,Romance,Korean,40.0,South Korea,4.0,2017.0
+12-08-2023 09:37,Series,sweet revenge,Thriller / Mystery,Korean,32.0,South Korea,4.0,2018.0
+12-08-2023 09:38,Series,tempted,Romance,Korean,32.0,South Korea,4.0,2018.0
+12-08-2023 09:39,Series,hymn of death,Drama,Korean,6.0,South Korea,4.0,2018.0
+12-08-2023 09:40,Series,legend of blue sea,Romance,Korean,20.0,South Korea,4.0,2016.0
+12-08-2023 13:04,Series,Loki,Action,English,12.0,India,5.0,2023.0
+12-09-2023 06:12,Series,Dhootha,Thriller / Mystery,Telugu,8.0,India,4.5,2023.0
+12-09-2023 06:13,Series,Mansion 24,Horror,Telugu,6.0,India,3.5,2023.0
+12-09-2023 06:14,Series,Maa Neella Tank ,Comedy,Telugu,8.0,India,3.5,2022.0
+12-09-2023 06:16,Series,Aha Naa Pellanta,Comedy,Telugu,8.0,India,4.0,2022.0
+12-09-2023 06:19,Series,Kumari Srimathi ,Drama,Telugu,7.0,India,4.0,2023.0
+12-09-2023 06:20,Series,Puli Meka,Action,Telugu,8.0,India,3.5,2023.0
+12-09-2023 06:21,Series,Save the Tigers,Comedy,Telugu,6.0,India,3.0,2023.0
+12-09-2023 06:22,Series,Farzi,Thriller / Mystery,Hindi,8.0,India,4.0,2023.0
+12-09-2023 06:26,Series,incurable case of love,Romance,Japanese,10.0,japan,4.0,2020.0
+12-09-2023 06:27,Series,Hua jai sila,Romance,japanese,27.0,japan,4.0,2019.0
+12-09-2023 06:29,Series,arsenal military academic,Action,Chinese,40.0,China,4.0,2019.0
+12-09-2023 06:30,Series,love020,Romance,Chinese,30.0,China,5.0,2016.0
+12-09-2023 06:31,Series,the eternal love,adventure,Chinese,36.0,China,3.0,2017.0
+12-09-2023 06:33,Series,put your head on my shoulder,Romance,Chinese,23.0,China,5.0,2019.0
+12-09-2023 06:33,Series,skate into love,Romance,Chinese,42.0,China,4.5,2020.0
+12-09-2023 06:34,Series,my unicorn girl,Comedy,Chinese,23.0,China,3.0,2020.0
+12-09-2023 06:34,Series,go ahead,Drama,Chinese,40.0,China,4.8,2020.0
+12-09-2023 14:28,Series,accidentally in love,Comedy,Chinese,16.0,China,3.0,2018.0
+12-09-2023 14:29,Series,begin again,Romance,Chinese,32.0,China,4.0,2020.0
+12-09-2023 14:31,Series,sparkle love,Romance,Chinese,16.0,China,4.0,2020.0
+12-09-2023 14:31,Series,meeting you,Romance,Chinese,32.0,China,4.0,2020.0
+12-09-2023 14:32,Series,the fox's summer,Romance,Chinese,24.0,China,3.0,2017.0
+12-09-2023 14:33,Series,my little princess,Romance,Chinese,24.0,China,3.4,2016.0
+12-09-2023 14:34,Series,love is sweet,Romance,Chinese,30.0,China,4.8,2020.0
+12-09-2023 14:35,Series,the day of becoming you,Comedy,Chinese,23.0,China,3.8,2021.0
+12-09-2023 14:35,Series,you are my glory,Romance,Chinese,32.0,China,4.5,2021.0
+12-09-2023 14:36,Series,miss crow and mr. lizard,Drama,Chinese,24.0,China,3.0,2021.0
+12-09-2023 14:38,Series,perfect and casual,Drama,Chinese,24.0,China,4.0,2020.0
+12-09-2023 14:57,Series,my demon,fantasy,Korean,16.0,South Korea,4.8,2023.0
+12-09-2023 14:59,Series,the story of park's contract marriage ,Drama,Korean,16.0,South Korea,3.7,2023.0
+12-09-2023 15:01,Series,trillion game,Drama,japanese,10.0,japan,4.0,2021.0
+12-09-2023 15:02,Series,sweet home,Thriller / Mystery,Korean,10.0,South Korea,4.5,2018.111617312073
+12-09-2023 15:03,Series,sweet home 2,Thriller / Mystery,Korean,8.0,South Korea,4.5,2023.0
+12-09-2023 15:04,Series,can we be strangers,Romance,Korean,12.0,South Korea,3.6,2022.0
+12-09-2023 15:05,Series,welcome to samdalri,rom com,Korean,16.0,South Korea,4.7,2023.0
+12-09-2023 15:06,Series,perfect marriage revenge,Thriller / Mystery,Korean,12.0,South Korea,4.5,2023.0
+12-09-2023 15:08,Series,strong girl namsoon,Action,Korean,16.0,South Korea,4.0,2023.0
+12-09-2023 15:13,Series,strong woman do bong soon,Comedy,Korean,16.0,South Korea,4.5,2016.0
+12-09-2023 15:22,Series,faceless love,Romance,thai,10.0,thailand,4.0,2023.0
+12-09-2023 15:23,Series,f4,Drama,thai,17.0,thailand,4.6,2021.0
+12-09-2023 15:24,Series,temperature of language,Romance,Korean,16.0,South Korea,4.0,2016.0
+12-09-2023 15:26,Series,youth of may,Drama,Korean,12.0,South Korea,4.3,2018.0
+12-09-2023 15:26,Series,love alarm,Romance,Korean,12.0,South Korea,4.5,2021.0
+12-09-2023 15:27,Series,school 2017,Drama,Korean,16.0,South Korea,4.0,2017.0
+12-09-2023 15:27,Series,school 2013,Drama,Korean,16.0,South Korea,4.0,2013.0
+12-09-2023 15:28,Series,school 2015,Drama,Korean,16.0,South Korea,4.0,2015.0
+12-09-2023 15:40,Series,school 2021,Drama,Korean,16.0,South Korea,4.0,2021.0
+12-09-2023 15:41,Series,may i help you,Romance,Korean,16.0,South Korea,3.0,2022.0
+12-09-2023 15:42,Series,the matchmakers,Comedy,Korean,16.0,South Korea,4.0,2023.0
+12-09-2023 15:45,Series,my secret romance,Romance,Korean,13.0,South Korea,3.0,2018.0
+12-09-2023 15:46,Series,tsuiraku jk to haijin kyoshi,Romance,japanese,9.0,japan,4.0,2019.0
+12-09-2023 15:47,Series,the king's affection,Drama,Korean,20.0,South Korea,4.6,2021.0
+12-09-2023 15:48,Series,vigilante,Action,Korean,8.0,South Korea,4.3,2023.0
+12-09-2023 15:48,Series,he is psychometric,Thriller / Mystery,Korean,16.0,South Korea,3.9,2017.0
+12-09-2023 15:49,Series,daily dose of sunshine,Drama,Korean,12.0,South Korea,3.8,2023.0
+12-09-2023 15:50,Series,doctors,Drama,Korean,20.0,South Korea,4.8,2018.111617312073
+12-09-2023 15:50,Series,i am not a robot,Comedy,Korean,16.0,South Korea,4.0,2021.0
+12-09-2023 15:51,Series, Go Ahead,Drama,Chinese,40.0,China,4.0,2020.0
+12-09-2023 15:51,Series,7 escape,Thriller / Mystery,Korean,17.0,South Korea,3.2,2023.0
+12-09-2023 15:51,Series,start up,Drama,Korean,16.0,South Korea,4.6,2020.0
+12-09-2023 15:53,Series,Forever Love,Romance,Chinese,30.0,China,4.0,2020.0
+12-09-2023 15:54,Series,soul plate,Romance,Korean,6.0,South Korea,4.2,2021.0
+12-09-2023 15:56,Series,Hidden love,Romance,Chinese,25.0,China,4.0,2023.0
+12-09-2023 15:56,Series,When i fly towards you,Romance,Chinese,24.0,China,4.0,2023.0
+12-09-2023 15:57,Series,moving,Action,Korean,20.0,South Korea,4.7,2023.0
+12-09-2023 15:57,Series,You are my glory,Romance,Chinese,32.0,China,4.0,2021.0
+12-09-2023 15:58,Series,Lighter & Princess,Romance,Chinese,36.0,China,5.0,2022.0
+12-09-2023 15:59,Series,big mouth,Action,Korean,16.0,South Korea,4.5,2022.0
+12-09-2023 15:59,Series,why her,Thriller / Mystery,Korean,12.0,South Korea,4.7,2022.0
+12-09-2023 16:00,Series,Falling into your smile,Romance,Chinese,31.0,China,4.0,2021.0
+12-09-2023 16:00,Series,find me in your memory,Romance,Korean,16.0,South Korea,4.1,2019.0
+12-09-2023 16:01,Series,You are my hero,Comedy,Chinese,40.0,China,3.5,2021.0
+12-09-2023 16:01,Series,Our secret,Romance,Chinese,24.0,China,4.0,2021.0
+12-09-2023 16:03,Series,My little happiness,Romance,Chinese,28.0,China,4.0,2021.0
+12-09-2023 16:04,Series,Love is sweet,Romance,Chinese,36.0,China,3.0,2020.0
+12-09-2023 16:04,Series,Go go squid,Romance,Chinese,41.0,China,4.0,2019.0
+12-09-2023 16:08,Series,sound candy,Romance,Korean,10.0,South Korea,4.0,2018.111617312073
+12-09-2023 16:08,Series,the good bad mother,Drama,Korean,14.0,South Korea,4.0,2023.0
+12-09-2023 16:09,Series,not others,Drama,Korean,12.0,South Korea,3.0,2023.0
+12-09-2023 16:09,Series,nightmare teacher,Horror,Korean,12.0,South Korea,4.0,2014.0
+12-09-2023 16:10,Series,personal taste,Romance,Korean,16.0,South Korea,4.0,2014.0
+12-09-2023 16:11,Series,my love from another star,Sci-fi,Korean,16.0,South Korea,4.0,2013.0
+12-09-2023 16:12,Series,uncontrollably fond,Romance,Korean,20.0,South Korea,4.0,2017.0
+12-09-2023 16:13,Series,lovestruck in the city,Romance,Korean,17.0,South Korea,4.6,2020.0
+12-09-2023 16:14,Series,lies hidden in my garden,Thriller / Mystery,Korean,8.0,South Korea,4.6,2023.0
+12-09-2023 16:14,Series,bitch x rich,Thriller / Mystery,Korean,10.0,South Korea,4.3,2023.0
+12-09-2023 16:15,Series,see you in my 19th life,fantasy,Korean,12.0,South Korea,3.7,2023.0
+12-09-2023 16:17,Series,girl from nowhere,Thriller / Mystery,thai,13.0,thailand,4.2,2020.0
+12-09-2023 16:17,Series,sky castle,Drama,Korean,20.0,South Korea,4.0,2021.0
+12-09-2023 16:18,Series,revenant,Horror,Korean,12.0,South Korea,4.0,2023.0
+12-09-2023 16:18,Series,bad girlfriend,Romance,Korean,12.0,South Korea,3.9,2021.0
+12-09-2023 16:20,Series,wednesday,Thriller / Mystery,English,8.0,USA,3.0,2023.0
+12-09-2023 16:21,Series,crazy love,Comedy,Korean,16.0,South Korea,3.7,2021.0
+12-09-2023 16:22,Series,little women,Thriller / Mystery,Korean,12.0,South Korea,4.0,2021.0
+12-09-2023 16:22,Series,xo kitty,Romance,English,10.0,USA,3.0,2023.0
+12-09-2023 16:23,Series,praomook,Romance,thai,15.0,thailand,4.3,2018.0
+12-09-2023 16:26,Series,mine,Drama,Korean,12.0,South Korea,4.3,2021.0
+12-09-2023 16:28,Series,connect,Thriller / Mystery,Korean,6.0,South Korea,4.3,2023.0
+12-09-2023 16:34,Series,fireworks of my heart,Romance,Chinese,42.0,China,3.0,2023.0
+12-09-2023 16:47,Series,MY3,Comedy,Tamil,9.0,India,4.0,2023.0
+12-09-2023 16:48,Series,Aakhri sach,Thriller / Mystery,Hindi,6.0,India,4.0,2023.0
+12-09-2023 16:49,Series,Mansion 24,Horror,Telugu,6.0,India,4.0,2023.0
+12-09-2023 16:52,Series,Oka Chinna Family Story,Comedy,Telugu,5.0,India,4.0,2021.0
+12-09-2023 16:54,Series,Puli Meka,Thriller / Mystery,Telugu,8.0,India,3.5,2023.0
+12-09-2023 16:55,Series,Arthamainda Arun Kumar,Drama,Telugu,5.0,India,3.5,2023.0
+12-09-2023 17:00,Series,Mr.Queen,Comedy,Korean,20.0,South Korea,4.0,2020.0
+12-09-2023 17:00,Series,Cafe minamdang,Drama,Korean,18.0,South Korea,4.0,2022.0
+12-09-2023 17:01,Series,K2,Action,Korean,16.0,South Korea,4.0,2016.0
+12-09-2023 17:02,Series,Goblin,Sci-fi,Korean,16.0,South Korea,4.0,2016.0
+12-09-2023 17:02,Series,Island,Sci-fi,Korean,6.0,South Korea,4.0,2022.0
+12-09-2023 17:03,Series,Cheer up,Drama,Korean,16.0,South Korea,4.0,2022.0
+12-09-2023 17:04,Series,Blind,Thriller / Mystery,Korean,16.0,South Korea,4.0,2022.0
+12-09-2023 17:05,Series,Itaewon class,Drama,Korean,16.0,South Korea,5.0,2020.0
+12-09-2023 17:05,Series,Eve,Thriller / Mystery,Korean,16.0,South Korea,3.0,2022.0
+12-09-2023 17:08,Series,Put Your Head on My Shoulder,Drama,Chinese,24.0,China,3.5,2019.0
+12-09-2023 17:09,Series,My Amazing Boyfriend,Sci-fi,Chinese,28.0,China,4.5,2016.0
+12-09-2023 17:10,Series,My Amazing Boyfriend 2,Sci-fi,Chinese,38.0,China,3.5,2019.0
+12-09-2023 17:12,Series,My Little Princess,Drama,Chinese,16.0,China,4.0,2016.0
+12-09-2023 17:15,Series,Skate into Love,Drama,Chinese,40.0,China,4.0,2020.0
+12-09-2023 17:16,Series,A Seven-Faced Man,Drama,Chinese,38.0,China,4.0,2017.0
+11/17/2023 9:57:35,Movie,Gone girl,Thriller / Mystery,English,1.0,USA,4.0,2018.111617312073
+11/17/2023 9:59:06,Movie,Garuda Gamana Vrishabha Vahana,Drama,Kannada,1.0,India,4.0,2018.111617312073
+11/17/2023 10:07:46,Movie,Garuda Gamana Vrishabha Vahana,Drama,Kannada ,1.0,India,4.0,2021.0
+11/17/2023 10:08:43,Movie,Gone girl ,Thriller / Mystery,English,1.0,USA,4.0,2014.0
+11/17/2023 10:12:41,Movie,MAD,Comedy,Telugu,1.0,India,5.0,2023.0
+11/17/2023 10:15:59,Movie,Love in Taipei,Romance,English,1.0,USA,4.0,2023.0
+11/17/2023 12:10:39,Movie,Maadhurya ,Comedy,Telugu,1.0,India,4.0,2025.0
+11/17/2023 12:11:47,Movie,Ye Maya chesave ,Romance,Telugu,1.0,India,5.0,2010.0
+11/17/2023 13:50:19,Movie,DOOKUDU,Comedy,Telugu,1.0,India,4.7,2011.0
+11/17/2023 15:36:14,Movie,Sri rama rajyam,Drama,Telugu,1.0,India,5.0,2018.111617312073
+11/17/2023 15:38:11,Movie,Vikramarkudu,Drama,Telugu,1.0,India,5.0,2018.111617312073
+11/17/2023 16:34:51,Movie,Darling,Romance,Telugu,1.0,India,5.0,2010.0
+12-01-2023 05:52,Movie,Leo,Action,Telugu,1.0,India,3.5,2023.0
+12-01-2023 05:53,Movie,Jaane jaan,Thriller / Mystery,Hindi,1.0,India,3.0,2023.0
+12-05-2023 05:29,Movie,Enola holmes,Thriller / Mystery,English,1.0,USA,4.0,2020.0
+12-05-2023 05:30,Movie,Enola holmes 2,Thriller / Mystery,English,1.0,USA,4.0,2022.0
+12-05-2023 05:32,Movie,Ishq,Comedy,Telugu,1.0,India,3.5,2012.0
+12-08-2023 04:42,Movie,Rangastalam,Action,Telugu,1.0,India,3.0,2018.0
+12-08-2023 04:43,Movie,Mean girls,Comedy,English,1.0,USA,4.0,2004.0
+12-08-2023 04:44,Movie, 13 going on 30,Comedy,English,1.0,USA,4.0,2004.0
+12-08-2023 04:44,Movie,Notebook,Romance,English,1.0,USA,3.5,2004.0
+12-08-2023 05:29,Movie,Chichoore,Comedy,Hindi,1.0,India,4.5,2014.0
+12-08-2023 05:31,Movie,Sitaramamam,Drama,Telugu,1.0,India,5.0,2021.0
+12-08-2023 05:32,Movie,Titanic,Romance,English,1.0,USA,4.0,2018.111617312073
+12-08-2023 08:38,Movie,Animal,Action,Hindi,1.0,India,4.0,2023.0
+12-08-2023 08:38,Movie,Hi Nanna,Romance,Telugu,1.0,India,4.0,2023.0
+12-08-2023 08:39,Movie,Jersey ,Sports drama,Telugu,1.0,India,5.0,2019.0
+12-08-2023 08:40,Movie,Kanthara,Thriller / Mystery,Kanada,1.0,India,4.0,2023.0
+12-08-2023 08:40,Movie,KGF,Action,Telugu,1.0,India,4.0,2018.0
+12-08-2023 08:44,Movie,Sahoo,Action,Telugu,1.0,India,4.0,2019.0
+12-08-2023 08:45,Movie,Maharshi,Drama,Telugu,1.0,India,4.0,2019.0
+12-08-2023 08:47,Movie,A Aa,Romance,Telugu,1.0,India,4.0,2016.0
+12-08-2023 08:49,Movie,Adirindi,Action,Telugu,1.0,India,4.0,2017.0
+12-08-2023 08:51,Movie,Ante Sundaraniki,Romance,Telugu,1.0,India,4.0,2022.0
+12-08-2023 08:52,Movie,Dangal,Action,Hindi,1.0,India,3.0,2016.0
+12-08-2023 08:53,Movie,Dear Comrade,Romance,Telugu,1.0,India,3.0,2019.0
+12-08-2023 08:54,Movie,Dhoom,Action,Hindi,1.0,India,4.0,2013.0
+12-08-2023 08:55,Movie,Half Girlfriend,Romance,Hindi,1.0,India,3.0,2017.0
+12-08-2023 08:56,Movie,M S Dhoni The Untold story,Biopic,Hindi,1.0,India,5.0,2016.0
+12-08-2023 09:00,Movie,Love reset,Romance,Korean,1.0,South Korea,4.0,2023.0
+12-08-2023 09:01,Movie,Dream,Sports,Korean,1.0,South Korea,5.0,2023.0
+12-08-2023 09:02,Movie,Call 119,Romance,Korean,1.0,South Korea,5.0,2012.0
+12-08-2023 09:24,Movie,Maari,Action,Tamil,1.0,India,5.0,2015.0
+12-08-2023 09:25,Movie,Majili,Romance,Telugu,1.0,India,4.0,2016.0
+12-08-2023 09:31,Movie,Matti kusthi,Sports,Telugu,1.0,India,3.0,2022.0
+12-08-2023 09:36,Movie,Zombie reddy,Thriller / Mystery,Telugu,1.0,India,3.0,2021.0
+12-08-2023 09:58,Movie,MAD,Comedy,Telugu,1.0,India,4.0,2023.0
+12-08-2023 13:21,Movie,Jaanu,Romance,Telugu,1.0,India,4.0,2020.0
+12-09-2023 06:07,Movie,Republic,Action,Telugu,1.0,India,3.0,2021.0
+12-09-2023 06:07,Movie,train to busan,Action,Korean,1.0,South Korea,5.0,2016.0
+12-09-2023 06:08,Movie,Miss Shetty Mr Polishetty ,Romance,Telugu,1.0,India,5.0,2023.0
+12-09-2023 06:09,Movie,parasite,Thriller / Mystery,Korean,1.0,South Korea,4.0,2019.0
+12-09-2023 06:09,Movie,sisindri,Comedy,Telugu,1.0,India,5.0,1995.0
+12-09-2023 06:09,Movie,peninsula,Thriller / Mystery,Korean,1.0,South Korea,4.0,2020.0
+12-09-2023 06:10,Movie,Maryada Ramanna,Comedy,Telugu,1.0,India,5.0,2010.0
+12-09-2023 06:10,Movie,the witch,Thriller / Mystery,Korean,1.0,South Korea,4.0,2018.0
+12-09-2023 06:11,Movie,Bruce Lee,Action,Telugu,1.0,India,4.0,2015.0
+12-09-2023 06:11,Movie,the negotiation,Action,Korean,1.0,South Korea,4.0,2018.0
+12-09-2023 06:12,Movie,always,Drama,Korean,1.0,South Korea,5.0,2011.0
+12-09-2023 06:13,Movie,Be with you,Fantasy,Korean,1.0,South Korea,4.5,2018.0
+12-09-2023 06:15,Movie,the dude in me,Comedy,Korean,1.0,South Korea,5.0,2019.0
+12-09-2023 06:19,Movie,the beauty inside,Drama,Korean,1.0,South Korea,4.5,2015.0
+12-09-2023 06:20,Movie,misbehaviour,Drama,Korean,1.0,South Korea,3.0,2016.0
+12-09-2023 06:21,Movie,hope,Drama,Korean,1.0,South Korea,5.0,2013.0
+12-09-2023 06:22,Movie,200 pounds beauty,Comedy,Korean,1.0,South Korea,4.0,2006.0
+12-09-2023 06:23,Movie,death bell,Horror,Korean,1.0,South Korea,4.0,2008.0
+12-09-2023 06:25,Movie, Virupaksha,Thriller / Mystery,Telugu,1.0,India,4.0,2023.0
+12-09-2023 06:27,Movie,Kaashmora,Horror,Telugu,1.0,India,3.0,2016.0
+12-09-2023 06:28,Movie,Puli,Action,Tamil,1.0,India,5.0,2015.0
+12-09-2023 06:29,Movie,Arundhati,Horror,Telugu,1.0,India,5.0,2009.0
+12-09-2023 06:30,Movie,Oh! Baby,Comedy,Telugu,1.0,India,4.0,2019.0
+12-09-2023 06:31,Movie,Manam,Romance,Telugu,1.0,India,4.0,2014.0
+12-09-2023 06:32,Movie,Sakthi,Thriller / Mystery,Telugu,1.0,India,3.0,2011.0
+12-09-2023 06:32,Movie,Khaleja,Action,Telugu,1.0,India,5.0,2010.0
+12-09-2023 06:33,Movie,Eega,Thriller / Mystery,Telugu,1.0,India,4.0,2012.0
+12-09-2023 06:34,Movie,Akhil,Action,Telugu,1.0,India,4.0,2015.0
+12-09-2023 06:35,Movie,Karthikeya ,Thriller / Mystery,Telugu,1.0,India,4.0,2014.0
+12-09-2023 14:11,Movie,Morbius,Horror,English,1.0,USA,4.0,2022.0
+12-09-2023 14:12,Movie,Venom,Sci-fi,English,1.0,USA,3.5,2018.0
+12-09-2023 14:14,Movie,Spider-Man,Action,English,1.0,USA,4.5,2002.0
+12-09-2023 14:15,Movie,Spider-Man 2,Action,English,1.0,USA,4.0,2004.0
+12-09-2023 14:15,Movie,Spider-Man 3,Action,English,1.0,USA,4.0,2007.0
+12-09-2023 14:17,Movie,"Red , White & Royal Blue",Romance,English,1.0,UK,4.5,2023.0
+12-09-2023 14:48,Movie,bad genius,Thriller / Mystery,thai,1.0,thailand,4.6,2017.0
+12-09-2023 14:50,Movie,children who chases lost voices,Action,japanese,1.0,japan,4.0,2011.0
+12-09-2023 14:50,Movie,suzume,Action,japanese,1.0,japan,4.6,2023.0
+12-09-2023 14:51,Movie,a silent voice,Drama,japanese,1.0,japan,4.9,2016.0
+12-09-2023 14:52,Movie,weather with you,Drama,japanese,1.0,japan,4.0,2019.0
+12-09-2023 14:53,Movie,your name,fantasy,japanese,1.0,japan,4.0,2016.0
+12-09-2023 14:58,Movie,Hi nanna,Romance,Telugu,1.0,India,4.0,2023.0
+12-09-2023 15:14,Movie,love reset,Comedy,Korean,1.0,South Korea,4.5,2023.0
+12-09-2023 15:24,Movie,hopeless,Action,Korean,1.0,South Korea,3.0,2023.0
+12-09-2023 15:25,Movie,unlocked,Thriller / Mystery,Korean,1.0,South Korea,4.8,2022.0
+12-09-2023 15:28,Movie,Tiger Nageswara Rao,Action,Telugu,1.0,India,3.0,2023.0
+12-09-2023 15:28,Movie,Home Alone,Comedy,English,1.0,USA,4.5,1990.0
+12-09-2023 15:28,Movie,Home Alone 2,Comedy,English,1.0,USA,4.0,1992.0
+12-09-2023 15:28,Movie,Heart Attack,Romance,Telugu,1.0,India,4.0,2014.0
+12-09-2023 15:29,Movie,Varisu,Action,Telugu,1.0,India,4.0,2023.0
+12-09-2023 15:30,Movie,3 idiots,Comedy,Hindi,1.0,India,4.0,2009.0
+12-09-2023 15:30,Movie,Shaakuntalam,Romance,Telugu,1.0,India,3.0,2023.0
+12-09-2023 15:31,Movie,Happy New Year,Action,Hindi,1.0,India,4.0,2014.0
+12-09-2023 15:32,Movie,Chennai Express,Action,Hindi,1.0,India,3.5,2013.0
+12-09-2023 15:32,Movie,Yashoda,Thriller / Mystery,Telugu,1.0,India,4.0,2022.0
+12-09-2023 15:32,Movie,Chhichhore,Comedy,Hindi,1.0,India,3.5,2019.0
+12-09-2023 15:33,Movie,Love Story,Romance,Telugu,1.0,India,4.0,2021.0
+12-09-2023 15:33,Movie,Most Eligible Bachelor,Romance,Telugu,1.0,India,3.0,2021.0
+12-09-2023 15:34,Movie,Varudu Kaavalenu,Comedy,Telugu,1.0,India,4.0,2021.0
+12-09-2023 15:35,Movie,Vakeel Saab,Action,Telugu,1.0,India,4.0,2021.0
+12-09-2023 15:36,Movie,Dasara,Action,Telugu,1.0,India,4.0,2023.0
+12-09-2023 15:36,Movie,Dangal,Action,Hindi,1.0,India,4.0,2016.0
+12-09-2023 15:36,Movie,Sita Ramam,Romance,Telugu,1.0,India,4.0,2022.0
+12-09-2023 15:37,Movie,Maharshi,Action,Telugu,1.0,India,4.0,2019.0
+12-09-2023 15:37,Movie,Train to Busan,Horror,Korean,1.0,South Korea,4.5,2016.0
+12-09-2023 15:38,Movie,Mirchi,Action,Telugu,1.0,India,4.0,2013.0
+12-09-2023 15:38,Movie,Charlie and the Chocolate Factory,Fantasy,English,1.0,USA,4.5,2005.0
+12-09-2023 15:39,Movie, Nene Raju Nene Mantri ,Action,Telugu,1.0,India,4.5,2017.0
+12-09-2023 15:39,Movie,Clueless,Romance,English,1.0,USA,3.5,1995.0
+12-09-2023 15:39,Movie,Jai Lava Kusa,Action,Telugu,1.0,India,3.5,2017.0
+12-09-2023 15:40,Movie,The Princess Diaries,Romance,English,1.0,USA,4.0,2001.0
+12-09-2023 15:40,Movie,Raja The Great,Comedy,Telugu,1.0,India,3.5,2017.0
+12-09-2023 15:41,Movie,Jaya Janaki Nayaka,Action,Telugu,1.0,India,3.0,2017.0
+12-09-2023 15:41,Movie,Maleficent,Fantasy,English,1.0,USA,4.0,2014.0
+12-09-2023 15:42,Movie,Maleficent: Mistress of Evil,Fantasy,English,1.0,USA,4.5,2019.0
+12-09-2023 15:43,Movie,dr cheon and lost talisman,Thriller / Mystery,Korean,1.0,South Korea,4.0,2023.0
+12-09-2023 15:43,Movie,Seethamma Vakitlo Sirimalle Chettu,Comedy,Telugu,1.0,India,3.5,2013.0
+12-09-2023 15:44,Movie,The Nun,Horror,English,1.0,USA,4.0,2018.0
+12-09-2023 15:44,Movie,congrats my ex,Drama,thai,1.0,thailand,4.0,2023.0
+12-09-2023 15:44,Movie,iSmart Shankar,Action,Telugu,1.0,India,4.0,2019.0
+12-09-2023 15:44,Movie,The Nun 2,Horror,English,1.0,USA,3.5,2023.0
+12-09-2023 15:44,Movie,anyone anywhere,Thriller / Mystery,Korean,1.0,South Korea,4.0,2023.0
+12-09-2023 15:45,Movie, Miss India,Drama,Telugu,1.0,India,3.0,2020.0
+12-09-2023 15:45,Movie, Insidious,Horror,English,1.0,USA,4.0,2010.0
+12-09-2023 15:46,Movie,Insidious: Chapter 2,Horror,English,1.0,USA,4.5,2013.0
+12-09-2023 15:46,Movie,Pushpa,Action,Telugu,1.0,India,4.0,2021.0
+12-09-2023 15:46,Movie,Insidious: Chapter 3,Horror,English,1.0,USA,4.0,2015.0
+12-09-2023 15:47,Movie,Insidious: The Last Key,Horror,English,1.0,USA,3.5,2018.0
+12-09-2023 15:47,Movie,Race Gurram,Comedy,Telugu,1.0,India,4.0,2014.0
+12-09-2023 15:47,Movie,Insidious: The Red Door,Horror,English,1.0,USA,4.0,2023.0
+12-09-2023 15:48,Movie,Businessman,Action,Telugu,1.0,India,4.0,2012.0
+12-09-2023 15:48,Movie,Annabelle,Horror,English,1.0,USA,4.5,2014.0
+12-09-2023 15:48,Movie,Srimanthudu,Drama,Telugu,1.0,India,4.0,2015.0
+12-09-2023 15:49,Movie, Annabelle Comes Home,Horror,English,1.0,USA,4.0,2019.0
+12-09-2023 15:49,Movie,Rangasthalam,Action,Telugu,1.0,India,4.0,2018.0
+12-09-2023 15:49,Movie,Annabelle: Creation,Horror,English,1.0,USA,4.0,2017.0
+12-09-2023 15:51,Movie,The Conjuring,Horror,English,1.0,USA,3.5,2013.0
+12-09-2023 15:52,Movie,The Conjuring 2,Horror,English,1.0,USA,4.0,2016.0
+12-09-2023 15:52,Movie,the childe,Action,Korean,1.0,South Korea,4.3,2022.0
+12-09-2023 15:53,Movie,The Conjuring: The Devil Made Me Do It,Horror,English,1.0,USA,3.5,2021.0
+12-09-2023 15:55,Movie,culpa mia,Romance,spanish,1.0,spain,5.0,2021.0
+12-09-2023 15:56,Movie,the last princess,Drama,Korean,1.0,South Korea,4.0,2016.0
+12-09-2023 15:58,Movie,alive,Thriller / Mystery,Korean,1.0,South Korea,4.0,2021.0
+12-09-2023 15:58,Movie,exit,Thriller / Mystery,Korean,1.0,South Korea,3.6,2019.0
+12-09-2023 16:08,Movie,Brave citizen,Drama,Korean,1.0,South Korea,3.0,2023.0
+12-09-2023 16:09,Movie,27 dresses,Romance,English,1.0,USA,4.0,2008.0
+12-09-2023 16:09,Movie,The other zoey,Romance,English,1.0,USA,4.0,2023.0
+12-09-2023 16:10,Movie,Holidate,Romance,English,1.0,USA,4.0,2020.0
+12-09-2023 16:11,Movie,Prom pact,Romance,English,1.0,USA,4.0,2023.0
+12-09-2023 16:12,Movie,Love again,Romance,English,1.0,USA,4.0,2023.0
+12-09-2023 16:12,Movie,Me before you,Romance,English,1.0,USA,4.0,2016.0
+12-09-2023 16:14,Movie,Hacked,Thriller / Mystery,Hindi,1.0,India,3.0,2020.0
+12-09-2023 16:15,Movie,Ram leela,Action,Hindi,1.0,India,4.0,2013.0
+12-09-2023 16:15,Movie,Haseen dillruba,Thriller / Mystery,Hindi,1.0,USA,3.5,2021.0
+12-09-2023 16:16,Movie,Dhadak,Romance,Hindi,1.0,India,4.0,2018.0
+12-09-2023 16:16,Movie,Sanam teri kasam,Romance,Hindi,1.0,India,4.0,2016.0
+12-09-2023 16:17,Movie,Chennai express,Comedy,Hindi,1.0,India,4.0,2013.0
+12-09-2023 16:18,Movie,Masooda,Horror,Telugu,1.0,India,3.5,2022.0
+12-09-2023 16:19,Movie,Babli bouncer,Comedy,Hindi,1.0,India,3.0,2022.0
+12-09-2023 16:19,Movie,Mimi,Drama,Hindi,1.0,India,4.0,2021.0
+12-09-2023 16:20,Movie,Shershaah,Action,Hindi,1.0,India,4.0,2021.0
+12-09-2023 16:20,Movie,Shiddat,Romance,Hindi,1.0,India,3.0,2021.0
+12-09-2023 16:20,Movie,spellbound,Horror,Korean,1.0,South Korea,4.3,2015.0
+12-09-2023 16:21,Movie,Satyaprem ki katha,Romance,Hindi,1.0,India,4.0,2023.0
+12-09-2023 16:22,Movie,Rocky aur rani ki prem kahaani,Romance,Hindi,1.0,India,4.0,2023.0
+12-09-2023 16:22,Movie,Chor nikal ke bhaga,Thriller / Mystery,Hindi,1.0,India,4.0,2023.0
+12-09-2023 16:23,Movie,Bawaal,Comedy,Hindi,1.0,India,4.0,2023.0
+12-09-2023 16:23,Movie,Ved,Romance,Hindi,1.0,India,4.0,2022.0
+12-09-2023 16:24,Movie,the effect of a finger flick on a breakup,Romance,Korean,1.0,South Korea,4.6,2021.0
+12-09-2023 16:24,Movie,Milli,Drama,Hindi,1.0,India,4.0,2022.0
+12-09-2023 16:25,Movie,The kerala story,Thriller / Mystery,Telugu,1.0,India,4.0,2023.0
+12-09-2023 16:27,Movie,Bharat,Action,Hindi,1.0,India,3.0,2018.0
+12-09-2023 16:29,Movie,Gangubhai kathiawadi,Drama,Hindi,1.0,India,4.0,2022.0
+12-09-2023 16:29,Movie,2018,Thriller / Mystery,Tamil,1.0,India,3.0,2023.0
+12-09-2023 16:30,Movie,Pathaan,Action,Hindi,1.0,India,4.0,2023.0
+12-09-2023 16:31,Movie,Bhediya,Sci-fi,Hindi,1.0,India,3.5,2022.0
+12-09-2023 16:31,Movie,Tamasha,Romance,Hindi,1.0,India,4.0,2015.0
+12-09-2023 16:32,Movie,Gadar,Action,Hindi,1.0,India,3.0,2023.0
+12-09-2023 16:33,Movie,Jailer,Action,Telugu,1.0,India,3.5,2023.0
+12-09-2023 16:33,Movie,Raazi,Thriller / Mystery,Hindi,1.0,India,3.5,2018.0
+12-09-2023 16:34,Movie,Kushi,Romance,Telugu,1.0,India,3.5,2023.0
+12-09-2023 16:35,Movie,Hridayam,Drama,Telugu,1.0,India,3.5,2022.0
+12-09-2023 16:36,Movie,Kalank,Drama,Hindi,1.0,India,4.0,2019.0
+12-09-2023 16:37,Movie,Padmaavat,Drama,Hindi,1.0,India,3.0,2018.0
+12-09-2023 16:37,Movie,24,Sci-fi,Tamil,1.0,India,4.0,2016.0
+12-09-2023 16:37,Movie,Chandramukhi,Horror,Telugu,1.0,India,3.0,2023.0
+12-09-2023 16:38,Movie,Kaithi,Action,Tamil,1.0,India,3.5,2019.0
+12-09-2023 16:38,Movie,Dilwale,Action,Hindi,1.0,India,3.5,2015.0
+12-09-2023 16:38,Movie,Maaveeran,Action,Tamil,1.0,India,3.5,2023.0
+12-09-2023 16:38,Movie,A Thursday,Thriller / Mystery,Hindi,1.0,India,3.5,2022.0
+12-09-2023 16:39,Movie,Doctor,Comedy,Tamil,1.0,India,4.0,2021.0
+12-09-2023 16:40,Movie,Dream Girl,Comedy,Hindi,1.0,India,4.0,2019.0
+12-09-2023 16:40,Movie,Ganapath,Action,Hindi,1.0,India,3.5,2023.0
+12-09-2023 16:41,Movie,Beast,Action,Tamil,1.0,India,4.0,2022.0
+12-09-2023 16:41,Movie,Hey Sinamika,Comedy,Telugu,1.0,India,3.5,2022.0
+12-09-2023 16:42,Movie,Annaatthe,Action,Tamil,1.0,India,4.0,2021.0
+12-09-2023 16:42,Movie,Irugapatru,Drama,Telugu,1.0,India,3.0,2023.0
+12-09-2023 16:42,Movie,Jailer,Action,Tamil,1.0,India,3.5,2023.0
+12-09-2023 16:42,Movie,Tiger,Action,Hindi,1.0,India,3.0,2023.0
+12-09-2023 16:43,Movie,Vikram,Thriller / Mystery,Tamil,1.0,India,4.5,2022.0
+12-09-2023 16:43,Movie,Remo,Comedy,Tamil,1.0,India,4.5,2016.0
+12-09-2023 16:44,Movie,Master,Action,Tamil,1.0,India,4.0,2021.0
+12-09-2023 16:45,Movie,Maari,Action,Tamil,1.0,India,3.5,2015.0
+12-09-2023 16:46,Movie,Kaththi,Thriller / Mystery,Tamil,1.0,India,4.0,2014.0
+12-09-2023 16:46,Movie,Yennai Arindhaal,Action,Tamil,1.0,India,4.0,2015.0
+12-09-2023 16:56,Movie,Congrats my ex!,Comedy,Thai,1.0,Thailand,3.0,2023.0
+12-09-2023 16:57,Movie,Legally Blonde,Comedy,English,1.0,USA,4.0,2001.0
+12-09-2023 16:57,Movie,Barbie,Romance,English,1.0,USA,4.0,2023.0
+12-09-2023 16:57,Movie,The Pursuit of Happyness,Drama,English,1.0,USA,4.0,2006.0
+12-09-2023 16:58,Movie,"Red, White & Royal Blue",Romance,English,1.0,USA,5.0,2023.0
+12-09-2023 16:59,Movie, Matilda,Comedy,English,1.0,USA,4.0,1996.0
+12-09-2023 16:59,Movie,Paddington,Comedy,English,1.0,USA,4.0,2014.0
+12-09-2023 17:00,Movie,Paddington 2,Comedy,English,1.0,USA,3.5,2017.0
+12-09-2023 17:01,Movie,La La Land,Romance,English,1.0,USA,3.5,2016.0
+12-09-2023 17:02,Movie,Bridesmaids,Comedy,English,1.0,UK,4.0,2011.0
+12-09-2023 17:03,Movie,About Time,Romance,English,1.0,UK,3.5,2013.0
+12-09-2023 17:04,Movie,You Are the Apple of My Eye,Drama,Chinese,1.0,China,4.0,2011.0
+12-09-2023 17:05,Movie,Chungking Express,Romance,Chinese,1.0,China,4.0,1994.0
+12-09-2023 17:06,Movie,Kung Fu Hustle,Action,Chinese,1.0,China,3.5,2004.0
+12-09-2023 17:06,Movie,Hello Mr. Billionaire,Comedy,Chinese,1.0,China,4.0,2018.0
+12-09-2023 17:07,Movie,Kanchana,Horror,Telugu,1.0,India,4.0,2019.0
+12-10-2023 03:31,Movie,LGM,Comedy,Telugu,1.0,India,3.0,2023.0
+12-10-2023 03:31,Movie,Leo,Action,Telugu,1.0,India,4.0,2023.0
+12-10-2023 03:32,Movie,Jawan,Action,Telugu,1.0,India,4.0,2023.0
+12-10-2023 03:32,Movie,Extra,Comedy,Telugu,1.0,India,3.0,2023.0
+12-10-2023 03:33,Movie,Bhola shankar,Action,Telugu,1.0,India,3.0,2023.0
+12-10-2023 04:15,Movie,Piku,Comedy,Hindi,1.0,India,4.0,2015.0
+12-10-2023 04:16,Movie,Raksha Bandhan,Comedy,Hindi,1.0,India,4.0,2022.0
+12-10-2023 04:16,Movie,OMG,Comedy,Hindi,1.0,India,4.0,2023.0
+12-10-2023 04:17,Movie,Tamasha,Comedy,Hindi,1.0,India,4.0,2015.0
+12-10-2023 04:18,Movie,Marry my dead body,Comedy,Taiwanese,1.0,Taiwan,4.0,2023.0
+12-10-2023 04:19,Movie,Tangled,Comedy,English,1.0,USA,4.0,2010.0
+12-10-2023 04:21,Movie,Ok! Madam,Comedy,Korean,1.0,South Korea,3.5,2020.0
+12-10-2023 04:22,Movie,The Pirates,Comedy,Korean,1.0,South Korea,3.0,2022.0
+12-10-2023 04:23,Movie,83,Drama,Hindi,1.0,India,4.0,2021.0
+12-10-2023 04:24,Movie,My Precious,Comedy,Thai,1.0,Thailand,4.0,2023.0
+12-10-2023 04:24,Movie,Devdas,Drama,Hindi,1.0,India,4.0,2002.0
+12-10-2023 04:25,Movie,Yaariyan,Drama,Hindi,1.0,India,4.0,2014.0
+12-10-2023 04:26,Movie,October,Drama,Hindi,1.0,India,3.0,2018.0
+12-10-2023 04:26,Movie,Cocktail,Drama,Hindi,1.0,India,3.0,2012.0
+12-10-2023 04:28,Movie,Raazi,Drama,Hindi,1.0,India,4.0,2018.0
+12-10-2023 04:29,Movie,Babli Bouncer,Drama,Hindi,1.0,India,4.0,2022.0
+12-10-2023 04:29,Movie,Mimi,Drama,Hindi,1.0,India,4.0,2021.0
+12-10-2023 04:30,Movie,Bawaal,Drama,Hindi,1.0,India,4.0,2023.0
+12-10-2023 04:31,Movie,Bulbbul,Drama,Hindi,1.0,India,3.0,2020.0
+12-10-2023 04:32,Movie,Adipurush,Drama,Telugu,1.0,India,4.0,2023.0
+12-10-2023 04:32,Movie,Sita ramam,Drama,Telugu,1.0,India,4.0,2022.0
+12-10-2023 04:33,Movie,Dream,Drama,Korean,1.0,South Korea,5.0,2023.0
+12-10-2023 04:33,Movie,Mili,Drama,Hindi,1.0,India,4.0,2022.0
+12-10-2023 04:34,Movie,Yashoda,Drama,Telugu,1.0,India,4.0,2022.0
+12-10-2023 04:35,Movie,Drishyam,Drama,Telugu,1.0,India,3.0,2021.0
+12-10-2023 04:35,Movie,Kantara,Drama,Telugu,1.0,India,4.0,2022.0
+12-10-2023 04:36,Movie,Me before you,Drama,English,1.0,USA,5.0,2016.0
+12-10-2023 04:37,Movie,Flu,Drama,Korean,1.0,South Korea,3.0,2013.0
+12-10-2023 04:38,Movie,Gaslight,Horror,Hindi,1.0,India,4.0,2023.0
+12-10-2023 04:39,Movie,Bhediya,Horror,Hindi,1.0,India,3.5,2022.0
+12-10-2023 04:40,Movie,Train to busan,Thriller / Mystery,Korean,1.0,South Korea,4.0,2016.0
