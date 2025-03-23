@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/styles.css">
+    <title>Movies and Series</title>
+</head>
+<body>
+    <h1>Movies and Series</h1>
+    <div>
+        <label for="genre">Search by Genre:</label>
+        <input type="text" id="genre" name="genre" placeholder="Enter genre...">
+        <button onclick="searchByGenre()">Search</button>
+    </div>
+    <div id="result"></div>
+
+    <script>
+        function searchByGenre() {
+            // Implement AJAX request to Flask backend here
+            var genre = document.getElementById('Genre').value;
+            // Make an AJAX request to your Flask backend using fetch or another library
+            // Update the result div with the response
+            // Example: document.getElementById('result').innerHTML = "Result: " + response;
+            fetch('/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: 'genre=' + encodeURIComponent(genre),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Update the result div with the response
+                var resultDiv = document.getElementById('result');
+                resultDiv.innerHTML = ''; // Clear previous results
+
+                if (data.length > 0) {
+                    data.forEach(item => {
+                        resultDiv.innerHTML += '<p>' + JSON.stringify(item) + '</p>';
+                    });
+                } else {
+                    resultDiv.innerHTML = 'No results found.';
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                // Handle errors as needed
+            });
+        }
+    </script>
+</body>
+</html>
